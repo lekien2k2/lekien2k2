@@ -9,8 +9,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=QuyetThangDev" alt="QuyetThangDev"/>
-   <a href="https://github.com/QuyetThangDev"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
+   <img src="https://komarev.com/ghpvc/?username=lekien2k2" alt="lekien2k2"/>
+   <a href="https://github.com/lekien2k2"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
 </p>
 
 **Languages and tools:**  
@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### 📈 My GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuyetThangDev&&show_icons=true&title_color=333&icon_color=bb2acf&text_color=444" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=lekien2k2&&show_icons=true&title_color=333&icon_color=bb2acf&text_color=444" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lekien2k2&&show_icons=true&layout=compact&title_color=333&icon_color=bb2acf&text_color=444" height="200">
 </div>
 
